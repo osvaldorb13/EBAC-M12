@@ -46,7 +46,7 @@ body {
     @include width(100%);    
     @include font-size(15px); 
     @include font-weight(300); 
-    color: $gris; 
+    color: tomato; 
     font-family: $font; 
     @include margin(0); 
 }
